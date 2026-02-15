@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://privatehealthtrust.com/sitemap.xml
