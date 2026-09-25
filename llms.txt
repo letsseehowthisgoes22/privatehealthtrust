@@ -1,0 +1,26 @@
+# Private Health Trust
+
+> An editorial resource for families and advisors exploring private behavioral health treatment, case management, and recovery support.
+
+The treatment directory features 15 programs and campuses; the private case-management directory lists nine providers. The directories were reviewed September 18, 2026. Entries summarize linked provider information or Recovery.com profiles. The list is an editorial shortlist, not a clinical outcome ranking. Caron campus and specialty listings can overlap. The journal archive has separate publication dates.
+
+## Start here
+
+- [Help for parents](https://privatehealthtrust.com/help-for-parents.html): Plain-language questions about finding rehab for an adult child, care coordination, costs, and coming home.
+- [Treatment directory](https://privatehealthtrust.com/provider-directory.html): 15 featured programs, with location, care focus, and sources.
+- [Private case managers](https://privatehealthtrust.com/private-case-managers.html): Nine firms offering case management, care navigation, or coordinated recovery support.
+- [Caron program guide](https://privatehealthtrust.com/caron-treatment-programs.html): Pennsylvania and Florida residential programs, plus detox and assessment pathways.
+- [Directory methodology](https://privatehealthtrust.com/editorial-methodology.html): Selection, sources, review scope, and distinctions between programs.
+
+## Family resources
+
+- [First ninety days](https://privatehealthtrust.com/family-guide.html): Planning the transition after treatment.
+- [Understanding treatment](https://privatehealthtrust.com/understanding-treatment.html): Background reading on treatment options.
+- [In-home treatment](https://privatehealthtrust.com/in-home-treatment.html): Background reading on home-based care.
+- [The Private Client Journal](https://privatehealthtrust.com/articles/): Articles on care, recovery, privacy, and family coordination.
+
+## Reference
+
+- [About](https://privatehealthtrust.com/about.html): Purpose and audience.
+- [Directory in Markdown](https://privatehealthtrust.com/provider-directory.md): Source-linked summaries of featured treatment and case-management listings.
+- [Sitemap](https://privatehealthtrust.com/sitemap.xml): Canonical page inventory.

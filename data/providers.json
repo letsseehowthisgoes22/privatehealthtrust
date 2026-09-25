@@ -1,0 +1,373 @@
+{
+  "reviewed": "2026-09-18",
+  "rehabs": [
+    {
+      "id": "plugged-in",
+      "name": "Plugged In Recovery",
+      "location": "Scottsdale, Arizona",
+      "state": "AZ",
+      "focus": "Addiction",
+      "level": "Residential",
+      "description": "A small residential addiction program combining individual and group counseling, recovery support, and experiential activities in Scottsdale.",
+      "consider": "Small-setting addiction care",
+      "question": "How are individual therapy, family involvement, and continuing care organized for this admission?",
+      "source": "https://recovery.com/plugged-in-recovery-scottsdale-arizona/"
+    },
+    {
+      "id": "j-flowers",
+      "name": "J. Flowers Health Institute",
+      "location": "Houston, Texas",
+      "state": "TX",
+      "focus": "Assessment",
+      "level": "Diagnostic evaluation & individualized treatment",
+      "description": "A concierge program centered on comprehensive diagnostic evaluation, stabilization, and individualized care for complex mental health, substance use, and medical concerns.",
+      "consider": "Diagnostic clarity and complex needs",
+      "question": "Which diagnostic services and level of care are included, and where will treatment and accommodation take place?",
+      "source": "https://recovery.com/j-flowers-health-institute-texas/"
+    },
+    {
+      "id": "bayside",
+      "name": "Bayside Marin",
+      "location": "San Rafael, California",
+      "state": "CA",
+      "focus": "Addiction",
+      "level": "Residential",
+      "description": "Residential addiction and mental health care in Marin County, with individual and group therapy, family work, and a phased approach to discharge planning.",
+      "consider": "Bay Area residential treatment",
+      "question": "How will the team address co-occurring symptoms and coordinate the transition back home?",
+      "source": "https://recovery.com/bayside-marin/"
+    },
+    {
+      "id": "carrara",
+      "name": "Carrara Treatment Malibu",
+      "location": "Malibu, California",
+      "state": "CA",
+      "focus": "Addiction",
+      "level": "Detox & residential",
+      "description": "A private Malibu setting offering addiction treatment, detoxification, individual therapy, psychiatric care, and wellness services.",
+      "consider": "Privacy and individualized treatment",
+      "question": "How much of the weekly schedule is licensed clinical treatment, and what medical coverage is available overnight?",
+      "source": "https://recovery.com/carrara-treatment-malibu-california/"
+    },
+    {
+      "id": "apn",
+      "name": "All Points North Lodge",
+      "location": "Vail Valley, Colorado",
+      "state": "CO",
+      "focus": "Addiction & mental health",
+      "level": "Residential",
+      "description": "A Colorado residential campus offering addiction, mental health, and trauma-focused care, with programming for professionals, veterans, and athletes.",
+      "consider": "Integrated care and specialty tracks",
+      "question": "Which track matches the presenting needs, and how are medical, psychiatric, and family services coordinated?",
+      "source": "https://recovery.com/all-points-north/"
+    },
+    {
+      "id": "beach-cottage",
+      "name": "The Beach Cottage at Seasons in Malibu",
+      "location": "Malibu, California",
+      "state": "CA",
+      "focus": "Mental health",
+      "level": "Residential mental health",
+      "description": "A residential mental health program offering individualized therapy in a coastal setting. This specific Seasons program is focused on mental health.",
+      "consider": "Primary mental health treatment",
+      "question": "Does this specific location treat the primary diagnosis, and can it accommodate any substance use or medical needs?",
+      "source": "https://recovery.com/residential/the-beach-cottage-seasons-in-malibu-california/"
+    },
+    {
+      "id": "borden",
+      "name": "Borden Cottage",
+      "location": "Camden, Maine",
+      "state": "ME",
+      "focus": "Addiction",
+      "level": "Residential",
+      "description": "A small residential program for substance use and co-occurring conditions, with individualized therapy, neuropsychological assessment, and continuing-care planning.",
+      "consider": "Small census and assessment",
+      "question": "How will testing inform treatment, and who coordinates care after the residential stay?",
+      "source": "https://recovery.com/borden-cottage/"
+    },
+    {
+      "id": "peak-path",
+      "name": "Peak Path Health",
+      "location": "Los Angeles, California",
+      "state": "CA",
+      "focus": "Addiction",
+      "level": "Residential",
+      "description": "A small residential addiction program serving clients with co-occurring mental health needs, with individual therapy and support for the transition to outpatient care.",
+      "consider": "Private setting and executive needs",
+      "question": "What is the clinical plan for the first month, and how are outside clinicians involved in discharge?",
+      "source": "https://recovery.com/residential/peak-path-health-los-angeles/"
+    },
+    {
+      "id": "guest-house",
+      "name": "The Guest House Ocala",
+      "location": "Silver Springs, Florida",
+      "state": "FL",
+      "focus": "Trauma",
+      "level": "Residential",
+      "description": "An adult treatment center near Ocala focused on trauma and related substance use, process addictions, anxiety, and depression.",
+      "consider": "Trauma-centered treatment",
+      "question": "How does the team assess readiness for trauma work and manage co-occurring addiction or psychiatric needs?",
+      "source": "https://www.theguesthouseocala.com/"
+    },
+    {
+      "id": "alta-mira",
+      "name": "Alta Mira Recovery Programs",
+      "location": "Sausalito, California",
+      "state": "CA",
+      "focus": "Addiction",
+      "level": "Residential",
+      "description": "Residential treatment for substance use and co-occurring mental health disorders, with psychological assessment, medical services, family programming, and continuing care.",
+      "consider": "Co-occurring needs and assessment",
+      "question": "How will the assessment shape the treatment plan, and what support will be in place after discharge?",
+      "source": "https://www.altamirarecovery.com/"
+    },
+    {
+      "id": "caron-pa",
+      "name": "Caron Pennsylvania",
+      "location": "Wernersville, Pennsylvania",
+      "state": "PA",
+      "focus": "Addiction",
+      "level": "Residential campus",
+      "description": "Caron\u2019s Pennsylvania campus offers residential addiction treatment and specialized tracks, alongside medical detox and continuing-care services.",
+      "consider": "Multiple age and specialty tracks",
+      "question": "Which named program will admit the patient, and how will the plan address age, health, and treatment history?",
+      "source": "https://www.caron.org/locations/caron-pennsylvania"
+    },
+    {
+      "id": "caron-grand-view",
+      "name": "Caron Grand View",
+      "location": "Wernersville, Pennsylvania",
+      "state": "PA",
+      "focus": "Addiction",
+      "level": "Residential specialty program",
+      "description": "Caron\u2019s Pennsylvania residential program designed around the needs of executives and other professionals seeking privacy and individualized care.",
+      "consider": "Executive-focused care",
+      "question": "How are work obligations, privacy, family participation, and clinical priorities managed during treatment?",
+      "source": "https://www.caron.org/treatment-programs/executives"
+    },
+    {
+      "id": "caron-fl-adult",
+      "name": "Caron Florida Adult Residential",
+      "location": "Delray Beach, Florida",
+      "state": "FL",
+      "focus": "Addiction",
+      "level": "Residential",
+      "description": "An adult residential program for substance use and co-occurring disorders, with family education and a personalized continuing-care plan.",
+      "consider": "Adult residential treatment in Florida",
+      "question": "What services are included, what requires an additional fee, and which benefits apply to this specific program?",
+      "source": "https://www.caron.org/treatment-programs/adult-residential-program"
+    },
+    {
+      "id": "caron-ocean",
+      "name": "Caron Ocean Drive",
+      "location": "Florida",
+      "state": "FL",
+      "focus": "Addiction",
+      "level": "Residential specialty program",
+      "description": "A Caron Florida program providing discreet, individualized addiction care for affluent adults and their families.",
+      "consider": "Privacy and complex family circumstances",
+      "question": "Which location and accommodations will be used, and how will outside advisors participate with the patient\u2019s consent?",
+      "source": "https://www.caron.org/treatment-programs/ocean-drive-florida"
+    },
+    {
+      "id": "caron-renaissance",
+      "name": "Caron Renaissance",
+      "location": "Boca Raton, Florida",
+      "state": "FL",
+      "focus": "Addiction",
+      "level": "Residential",
+      "description": "Caron\u2019s Florida residential program addressing addiction and underlying issues, with an emphasis on sustained change and family involvement.",
+      "consider": "Longer-term recovery work",
+      "question": "How are treatment progression, family participation, and readiness for the next level of care evaluated?",
+      "source": "https://www.caron.org/treatment-programs/renaissance"
+    }
+  ],
+  "case_managers": [
+    {
+      "id": "coast",
+      "name": "Coast Health Consulting",
+      "focus": "Private case management",
+      "description": "Coordinates mental health and addiction care through treatment planning, provider communication, and support across transitions.",
+      "question": "Who will be our primary case manager, and how will updates and after-hours needs be handled?",
+      "source": "https://coasthealthconsulting.com/case-management/"
+    },
+    {
+      "id": "intent",
+      "name": "Intent Clinical",
+      "focus": "Complex behavioral health",
+      "description": "Formerly O\u2019Connor Professional Group. Provides behavioral health support for individuals, families, and advisors navigating complex care needs.",
+      "question": "How will your team coordinate the family, treating clinicians, and professional advisors?",
+      "source": "https://intentclinical.com/who-we-are/"
+    },
+    {
+      "id": "feinberg",
+      "name": "Feinberg Consulting",
+      "focus": "Case management & advocacy",
+      "description": "Offers concierge case management, intervention, advocacy, and coordination for behavioral health and complex medical situations.",
+      "question": "How are behavioral health and medical needs integrated into a single care plan?",
+      "source": "https://www.feinbergcare.com/concierge-case-management"
+    },
+    {
+      "id": "spearhead",
+      "name": "Spearhead Health",
+      "focus": "Care management & recovery support",
+      "description": "Provides care management, family coaching, recovery companions, and in-home support; services are private pay.",
+      "question": "What is included in the care-management engagement, and who supervises companion or home-based services?",
+      "source": "https://spearheadhealth.com/resources/faq/"
+    },
+    {
+      "id": "tag",
+      "name": "The Advocacy Group",
+      "focus": "Case management & treatment placement",
+      "description": "Coordinates treatment, care transitions, family communication, and ongoing recovery plans with clients and their professional teams.",
+      "question": "How are treatment options evaluated, and how frequently is the care plan reviewed?",
+      "source": "https://www.theadvocacygroup.co/services/case-management"
+    },
+    {
+      "id": "hired-power",
+      "name": "Hired Power",
+      "focus": "Case management & transition support",
+      "description": "Provides case management, care planning, recovery assistance, and coordination with treatment and other support providers.",
+      "question": "Who is responsible for discharge coordination, daily support, and communication with outside clinicians?",
+      "source": "https://hiredpower.com/recovery-services/case-management"
+    },
+    {
+      "id": "silverbell",
+      "name": "SilverBell Global",
+      "focus": "Care navigation & companions",
+      "description": "Builds LifeTeams around clients and families, combining a LifeTeam Manager with coaches, companions, and collaborating care professionals.",
+      "question": "How is the LifeTeam Manager\u2019s role different from the companion\u2019s, and how are outside clinicians involved?",
+      "source": "https://silverbellglobal.com/services"
+    },
+    {
+      "id": "ccc",
+      "name": "Concierge Care Collective",
+      "focus": "In-home care coordination",
+      "description": "Offers discreet in-home support for psychiatric, addiction, medical, and aging-related challenges, assembling case managers, nurses, coaches, and other providers.",
+      "question": "Which services are delivered by licensed medical professionals, and how does staffing adapt as needs change?",
+      "source": "https://conciergecarecollective.com/"
+    },
+    {
+      "id": "doyen",
+      "name": "Doyen Consulting Group",
+      "focus": "Family advising & intervention",
+      "description": "Supports families navigating addiction and mental health concerns through intervention, treatment placement, family coaching, and ongoing case management.",
+      "question": "What does support look like before admission, during treatment, and when the person returns home?",
+      "source": "https://doyencg.com/"
+    }
+  ],
+  "caron": [
+    {
+      "name": "Young Adult",
+      "location": "Pennsylvania",
+      "type": "Residential",
+      "description": "Age-focused addiction treatment.",
+      "source": "https://www.caron.org/treatment-programs/young-adults"
+    },
+    {
+      "name": "Adult Men",
+      "location": "Pennsylvania",
+      "type": "Residential",
+      "description": "Residential addiction treatment for men.",
+      "source": "https://www.caron.org/treatment-programs/adult-men"
+    },
+    {
+      "name": "Adult Women",
+      "location": "Pennsylvania",
+      "type": "Residential",
+      "description": "Residential addiction treatment for women.",
+      "source": "https://www.caron.org/treatment-programs/adult-women"
+    },
+    {
+      "name": "Grand View",
+      "location": "Pennsylvania",
+      "type": "Residential",
+      "description": "Executive-focused residential care.",
+      "source": "https://www.caron.org/treatment-programs/executives"
+    },
+    {
+      "name": "Monarch",
+      "location": "Pennsylvania",
+      "type": "Residential",
+      "description": "Individualized addiction care for complex medical needs, including older adults.",
+      "source": "https://www.caron.org/treatment-programs/monarch"
+    },
+    {
+      "name": "Healthcare Professionals",
+      "location": "Pennsylvania",
+      "type": "Residential",
+      "description": "Specialized treatment for healthcare professionals.",
+      "source": "https://www.caron.org/healthcare-professionals-program"
+    },
+    {
+      "name": "Aviation Professionals",
+      "location": "Pennsylvania",
+      "type": "Residential",
+      "description": "Specialized treatment for aviation professionals.",
+      "source": "https://www.caron.org/aviation-program"
+    },
+    {
+      "name": "Relapse Program",
+      "location": "Pennsylvania",
+      "type": "Residential",
+      "description": "Focused treatment for recurring substance use disorder.",
+      "source": "https://www.caron.org/treatment-programs/relapse-treatment"
+    },
+    {
+      "name": "Adult Residential",
+      "location": "Florida",
+      "type": "Residential",
+      "description": "Adult substance use and co-occurring disorder treatment.",
+      "source": "https://www.caron.org/treatment-programs/adult-residential-program"
+    },
+    {
+      "name": "Ocean Drive",
+      "location": "Florida",
+      "type": "Residential",
+      "description": "Private, individualized care for affluent adults and their families.",
+      "source": "https://www.caron.org/treatment-programs/ocean-drive-florida"
+    },
+    {
+      "name": "Renaissance",
+      "location": "Florida",
+      "type": "Residential",
+      "description": "Residential addiction treatment in Boca Raton.",
+      "source": "https://www.caron.org/treatment-programs/renaissance"
+    },
+    {
+      "name": "Monarch",
+      "location": "Florida",
+      "type": "Residential",
+      "description": "Individualized addiction and medical care, including older-adult needs.",
+      "source": "https://www.caron.org/treatment-programs/monarch"
+    },
+    {
+      "name": "Medical Detox",
+      "location": "Pennsylvania & Florida",
+      "type": "Detox",
+      "description": "Medical withdrawal management; distinct from the full residential treatment course.",
+      "source": "https://www.caron.org/treatment-programs/detox-services"
+    },
+    {
+      "name": "Healthcare Residential Assessment",
+      "location": "Pennsylvania",
+      "type": "Assessment",
+      "description": "A dedicated residential assessment for healthcare professionals.",
+      "source": "https://www.caron.org/treatment-programs/healthcare-residential-assessment-program"
+    },
+    {
+      "name": "Aviation Residential Assessment",
+      "location": "Pennsylvania",
+      "type": "Assessment",
+      "description": "A dedicated residential assessment for aviation professionals.",
+      "source": "https://www.caron.org/treatment-programs/aviation-residential-assessment-program"
+    },
+    {
+      "name": "Neurocognitive Assessment",
+      "location": "Florida",
+      "type": "Assessment",
+      "description": "A dedicated assessment pathway for brain health and cognitive concerns.",
+      "source": "https://www.caron.org/treatment-programs/neurocognitive-assessment"
+    }
+  ]
+}
